@@ -1,3 +1,6 @@
+spring:
+  application:
+    name: configDemo
 build:
   id: 101011
   version : 1.2.3
