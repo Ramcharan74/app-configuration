@@ -1,5 +1,5 @@
 build:
   id: 101011
   version : 1.2.3
-  name: "Dev-build"
-  type: "Development Build"
+  name: "Dev-GIT-build"
+  type: "Development GIT  Build"
